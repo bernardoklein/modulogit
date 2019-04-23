@@ -1,0 +1,30 @@
+[1mdiff --git a/index.html b/index.html[m
+[1mindex a676a97..564d5e5 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -1 +1,2 @@[m
+[31m-algum conteudo[m
+\ No newline at end of file[m
+[32m+[m[32malgum conteudo[m
+[32m+[m[32malgum teudo 2[m
+[1mdiff --git a/readme.md b/readme.md[m
+[1mindex edec8aa..0bb08e8 100644[m
+[1m--- a/readme.md[m
+[1m+++ b/readme.md[m
+[36m@@ -1 +1,3 @@[m
+[31m-Meu primeiro sistema no git.[m
+\ No newline at end of file[m
+[32m+[m[32mMeu  segundo sistema no git.[m
+[32m+[m
+[32m+[m[32mlinha editada aula 2[m
+\ No newline at end of file[m
+[1mdiff --git a/style.css b/style.css[m
+[1mindex 333e651..8dacec1 100644[m
+[1m--- a/style.css[m
+[1m+++ b/style.css[m
+[36m@@ -1 +1,2 @@[m
+[31m-segundo commit[m
+\ No newline at end of file[m
+[32m+[m[32msegundo commit[m
+[32m+[m[32mterceiro[m
+\ No newline at end of file[m
